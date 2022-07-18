@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+/* NAV */
+body {
+    background: linear-gradient(267.24deg, rgba(0, 156, 177, 0.176) 15.95%, rgba(85, 98, 215, 0.2) 45.14%, rgba(157, 115, 227, 0.162) 76.12%, rgba(207, 109, 168, 0.17) 97.01%);
+    font-family: 'Poppins', sans-serif;
+    width: 97vw;
+}
+
+.navbar {
+    background: linear-gradient(267.24deg, rgba(0, 156, 177, 0.176) 15.95%, rgba(85, 98, 215, 0.2) 45.14%, rgba(157, 115, 227, 0.162) 76.12%, rgba(207, 109, 168, 0.17) 97.01%);
+
+}
+
+.logo {
+    position: relative;
+    bottom: 5px;
+    max-width: 55px;
+    height: auto;
+}
+
+.nav-btn {
+    padding: 0;
+    margin: 0;
+    border: none;
+}
+
+.ahov {
+    color: gray;
+}
+
+.ahov:hover {
+    color: rgb(175, 173, 173);
+    transition: 1s;
+}
+
+.mapa {
+    max-width: 100%;
+}
