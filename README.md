@@ -18,4 +18,4 @@ Bootstrap: A popular CSS framework that is used to create responsive and mobile-
 JavaScript: A programming language that is used to add interactivity to websites.
 
 
-Link: https://inioch.github.io/GirlsPlaceHTML/#KONTAKT
+Link: https://inioch.github.io/GirlsPlaceHTML
