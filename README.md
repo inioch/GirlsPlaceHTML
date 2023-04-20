@@ -16,3 +16,6 @@ The website is built using the following technologies:
 
 Bootstrap: A popular CSS framework that is used to create responsive and mobile-first websites.
 JavaScript: A programming language that is used to add interactivity to websites.
+
+
+Link: https://inioch.github.io/GirlsPlaceHTML/#KONTAKT
